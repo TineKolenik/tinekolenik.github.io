@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tine Kolenik on Tine Kolenik</title>
+    <link>https://tinekolenik.github.io/</link>
+    <description>Recent content in Tine Kolenik on Tine Kolenik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Detailed_interests</title>
+      <link>https://tinekolenik.github.io/detailed_interests/</link>
+      <pubDate>Mon, 24 Sep 2018 23:34:32 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/detailed_interests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are truer perceptions really better perceptions? A genetic algorithm study</title>
+      <link>https://tinekolenik.github.io/publication/truerperceptions/</link>
+      <pubDate>Sat, 23 Jun 2018 16:29:59 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/publication/truerperceptions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational model of enactive visuospatial mental imagery using saccadic perceptual actions</title>
+      <link>https://tinekolenik.github.io/publication/computational-model-of-enactive-visuospatial-mental-imagery/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/publication/computational-model-of-enactive-visuospatial-mental-imagery/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Jug, Kolenik and Ofner are first co-authors&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Use of Genetic Algorithms in Researching Non-Veridical Perception</title>
+      <link>https://tinekolenik.github.io/publication/use-ga-nonveridical_perception/</link>
+      <pubDate>Fri, 13 Oct 2017 22:57:39 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/publication/use-ga-nonveridical_perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaj imata skupnega Heidegger in Roomba: utelešena umetna inteligenca kot peskovnik kontinentalne filozofije</title>
+      <link>https://tinekolenik.github.io/publication/heidegger-in-roomba/</link>
+      <pubDate>Thu, 01 Dec 2016 22:14:09 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/publication/heidegger-in-roomba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embodied Cognitive Robotics, the Question of Meaning and the Necessity of Non-Trivial Autonomy</title>
+      <link>https://tinekolenik.github.io/publication/non-trivial-autonomy-is/</link>
+      <pubDate>Thu, 13 Oct 2016 22:44:58 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/publication/non-trivial-autonomy-is/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symbol grounding through action and language in cognitive robotics</title>
+      <link>https://tinekolenik.github.io/publication/symbolgroundingcogr/</link>
+      <pubDate>Thu, 23 Jun 2016 16:33:40 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/publication/symbolgroundingcogr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

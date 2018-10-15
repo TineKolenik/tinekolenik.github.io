@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Tine Kolenik</title>
+    <link>https://tinekolenik.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Tine Kolenik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://tinekolenik.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Computational model of enactive visuospatial mental imagery using saccadic perceptual actions</title>
+      <link>https://tinekolenik.github.io/publication/computational-model-of-enactive-visuospatial-mental-imagery/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/publication/computational-model-of-enactive-visuospatial-mental-imagery/</guid>
+      <description>Jug, Kolenik and Ofner are first co-authors</description>
+    </item>
+    
+    <item>
+      <title>Kaj imata skupnega Heidegger in Roomba: utelešena umetna inteligenca kot peskovnik kontinentalne filozofije</title>
+      <link>https://tinekolenik.github.io/publication/heidegger-in-roomba/</link>
+      <pubDate>Thu, 01 Dec 2016 22:14:09 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/publication/heidegger-in-roomba/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
