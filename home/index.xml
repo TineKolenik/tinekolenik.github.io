@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Tine Kolenik</title>
+    <link>https://tinekolenik.github.io/home/</link>
+    <description>Recent content in Homes on Tine Kolenik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://tinekolenik.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://tinekolenik.github.io/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tinekolenik.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/home/about/</guid>
+      <description>Biography Tine Kolenik is a Junior Researcher at the Department of Intelligent Systems at the Jožef Stefan Institute and an Assistant Lecturer at the Jožef Stefan International Postgraduate School. His research interests include cognitive science and artificial intelligence. He is doing his PhD on the intelligent cognitive assistant technology for behavior change in mental health. Kolenik is also affiliated with the AST Research Center and the Center for Cognitive Science of University of Ljubljana.</description>
+    </item>
+    
+    <item>
+      <title>[Research Interests](/interests/)</title>
+      <link>https://tinekolenik.github.io/home/interests/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/home/interests/</guid>
+      <description>My current research interests are mostly related to my PhD topic, which deals with designing an intelligent cognitive assistant for behavior change in mental health. Specifically, I am constructing an artificial cognitive architecture that uses input natural language and biophysiological signals to diagnose stress/anxiety/depression levels of a user in real-time. It then outputs individually adapted behavior change strategies for different user personalities in natural language, changing with time to adjust to specific diagnoses and historical interactions with the user.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tinekolenik.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://tinekolenik.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://tinekolenik.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>https://tinekolenik.github.io/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://tinekolenik.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://tinekolenik.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://tinekolenik.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Section</title>
+      <link>https://tinekolenik.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://tinekolenik.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://tinekolenik.github.io/home/personal/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/home/personal/</guid>
+      <description>I enjoy reading, music, art, films &amp; TV shows, board games, practicing capoeira, playing soccer, bodyweight training, cooking, and sewing. I sometimes try to write fiction. I used to make music and ran a record company for a living. Causes that are dear to me include workers&#39; rights, veganism, intersectional approaches to equality, and open society (free education, universal healthcare, etc.).  </description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://tinekolenik.github.io/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/home/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tinekolenik.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

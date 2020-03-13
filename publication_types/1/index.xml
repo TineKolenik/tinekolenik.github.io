@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Tine Kolenik</title>
+    <link>https://tinekolenik.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Tine Kolenik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 23 Jun 2018 16:29:59 +0200</lastBuildDate>
+    
+	<atom:link href="https://tinekolenik.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Are truer perceptions really better perceptions? A genetic algorithm study</title>
+      <link>https://tinekolenik.github.io/publication/_old/truerperceptions/</link>
+      <pubDate>Sat, 23 Jun 2018 16:29:59 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/publication/_old/truerperceptions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Use of Genetic Algorithms in Researching Non-Veridical Perception</title>
+      <link>https://tinekolenik.github.io/publication/_old/use-ga-nonveridical_perception/</link>
+      <pubDate>Fri, 13 Oct 2017 22:57:39 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/publication/_old/use-ga-nonveridical_perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embodied Cognitive Robotics, the Question of Meaning and the Necessity of Non-Trivial Autonomy</title>
+      <link>https://tinekolenik.github.io/publication/_old/non-trivial-autonomy-is/</link>
+      <pubDate>Thu, 13 Oct 2016 22:44:58 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/publication/_old/non-trivial-autonomy-is/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symbol grounding through action and language in cognitive robotics</title>
+      <link>https://tinekolenik.github.io/publication/_old/symbolgroundingcogr/</link>
+      <pubDate>Thu, 23 Jun 2016 16:33:40 +0200</pubDate>
+      
+      <guid>https://tinekolenik.github.io/publication/_old/symbolgroundingcogr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
