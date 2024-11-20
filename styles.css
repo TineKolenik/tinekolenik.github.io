@@ -1670,3 +1670,13 @@ body.dark {
 .dark a.label:hover {
   color: rgba(255, 255, 255, .68);
 }
+
+.fab.fa-twitter:before {
+    content: url('/img/bsky.svg'); /* Correct path */
+    display: inline-block; /* Prevents it from taking up the whole line */
+    width: 1em; /* Match the size of the other icons */
+    height: 1em; /* Keep it proportional */
+    vertical-align: middle; /* Aligns it with the text baseline */
+}
+
+
