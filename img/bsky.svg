@@ -1,19 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
-<desc>Created with Fabric.js 5.2.4</desc>
-<defs>
-</defs>
-<g transform="matrix(1 0 0 1 540 540)" id="33cb1b13-c17d-43c3-9c07-50ba139c5dce"  >
-<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
-</g>
-<g transform="matrix(1 0 0 1 540 540)" id="8a3c4ce7-2c43-4230-8002-fbc75484eb79"  >
-</g>
-<g transform="matrix(1 0 0 1 540 540)" id="5db52265-b95c-42ab-8588-d0a27676f977"  >
-<path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,149,235); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-512, -531.5)" d="M 351.121 315.106 C 416.241 363.994 486.281 463.123 512 516.315 C 537.719 463.123 607.759 363.994 672.879 315.106 C 719.866 279.83 796 252.536 796 339.388 C 796 356.734 786.055 485.101 780.222 505.943 C 759.947 578.396 686.067 596.876 620.347 585.691 C 735.222 605.242 764.444 670.002 701.333 734.762 C 581.473 857.754 529.061 703.903 515.631 664.481 C 513.169 657.254 512.017 653.873 512 656.748 C 511.983 653.873 510.831 657.254 508.369 664.481 C 494.939 703.903 442.527 857.754 322.667 734.762 C 259.556 670.002 288.778 605.242 403.653 585.691 C 337.933 596.876 264.053 578.396 243.778 505.943 C 237.945 485.101 228 356.734 228 339.388 C 228 252.536 304.134 279.83 351.121 315.106 Z" stroke-linecap="round" />
-</g>
-<g transform="matrix(NaN NaN NaN NaN 0 0)"  >
-<g style=""   >
-</g>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 1080" fill="none">
+  <path style="stroke: rgb(0,0,0); stroke-width: 0; fill: rgb(0,149,235); fill-rule: nonzero;" d="M 351.121 315.106 C 416.241 363.994 486.281 463.123 512 516.315 C 537.719 463.123 607.759 363.994 672.879 315.106 C 719.866 279.83 796 252.536 796 339.388 C 796 356.734 786.055 485.101 780.222 505.943 C 759.947 578.396 686.067 596.876 620.347 585.691 C 735.222 605.242 764.444 670.002 701.333 734.762 C 581.473 857.754 529.061 703.903 515.631 664.481 C 513.169 657.254 512.017 653.873 512 656.748 C 511.983 653.873 510.831 657.254 508.369 664.481 C 494.939 703.903 442.527 857.754 322.667 734.762 C 259.556 670.002 288.778 605.242 403.653 585.691 C 337.933 596.876 264.053 578.396 243.778 505.943 C 237.945 485.101 228 356.734 228 339.388 C 228 252.536 304.134 279.83 351.121 315.106 Z"/>
 </svg>
